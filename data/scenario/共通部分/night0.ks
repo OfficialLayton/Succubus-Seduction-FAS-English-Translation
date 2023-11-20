@@ -10,7 +10,8 @@
 [endtrans trans=normal time=1000]
 
 【主人公】
-「ふう、どれだけあるんだ。親父の古書。」
+"Man, all these books belonging to my father...
+there's no end to them."
 
 夏休みに合わせて実家に帰省した俺は、
 親父に頼まれて書庫の掃除をさせられていた。

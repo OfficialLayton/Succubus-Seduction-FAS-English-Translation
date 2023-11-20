@@ -1,10 +1,12 @@
 data.xp3
 readme_サキュバスの誘惑.txt
-data/*
+data
 !data/scenario
 !data/scenarioJapanese
-plugin/*
-savedata/*
+plugin
+savedata
 サキュバスの誘惑.exe
 unins000.exe
 unins000.dat
+data.xp3.old
+.vscode/
