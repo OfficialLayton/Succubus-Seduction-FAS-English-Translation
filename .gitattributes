@@ -1,0 +1,5 @@
+* -text
+*.txt   text eol=lf charset=shiftjis
+*.ks   text eol=lf charset=shiftjis
+*.md    text eol=lf charset=shiftjis
+# Add more file patterns as needed

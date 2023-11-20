@@ -1,0 +1,10 @@
+data.xp3
+readme_サキュバスの誘惑.txt
+data/*
+!data/scenario
+!data/scenarioJapanese
+plugin/*
+savedata/*
+サキュバスの誘惑.exe
+unins000.exe
+unins000.dat
